@@ -3,7 +3,7 @@
 
 [![Kotlin](https://img.shields.io/badge/Kotlin%2B-blue)](https://kotlinlang.org/)
 
-## **⚠️ WARNING: SECURITY RESEARCH TOOL**
+## **⚠️ WARNING: SECURITY RESEARCH APP**
 **DroidRadar** is a **security analysis app** designed to **detect, analyze, and identify threats** in Bluetooth and NFC communications. This application is intended for **cybersecurity research, penetration testing, and educational purposes** in **authorized environments only**.
 
 **USE RESPONSIBLY.** The developers are **not responsible** for any misuse, privacy violations, or illegal activities performed with this tool.
